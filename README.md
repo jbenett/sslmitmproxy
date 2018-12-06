@@ -1,5 +1,11 @@
 # sslmitm
 
+## Team Members
+Jack Lenzotti, Lane Lucas, Max Kross, Connor Cimino
+
+## Github Link
+https://github.com/maxkross/sslmitmproxy
+
 ## Demo Video
 https://youtu.be/jytJlQkryxY
 
